@@ -1,6 +1,6 @@
 ![Logo](hello-2.gif)
 ___
-###***I'm Kostya, software engineer student from St. Petersburg.***
+#***I'm Kostya, software engineer student from St. Petersburg.***
 ___
 * I'm a 3d years student of [ITMO University](https://itmo.ru/ru/).
 * I’m currently learning Spring Framework, Java.
